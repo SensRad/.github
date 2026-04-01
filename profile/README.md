@@ -8,11 +8,9 @@ Sensrad develops 4D imaging radar hardware and perception software for autonomou
 
 ## Products
 
-| Product | Type | Description |
-|---|---|---|
-| [Hugin D1](https://www.sensrad.com/hugin-radar-d1) | Dynamic 4D Imaging Radar | High-resolution radar for autonomous vehicles, robotics, and mobile platforms |
-| [Oden Drive](https://www.sensrad.com/oden-drive) | Navigation System | Radar-based positioning and navigation for autonomous platforms |
-| [Oden Eye](https://www.sensrad.com/oden-eye) | Detection System | Radar-based object detection and tracking |
+[Hugin D1](https://www.sensrad.com/hugin-radar-d1) - High-resolution 4D imaging radar for autonomous vehicles, robotics, and mobile platforms
+[Oden Drive](https://www.sensrad.com/oden-drive) - Radar-based perception stack for autonomous vehicles, including odometry, free-space and drivable surface estimation, object tracking, and classification
+[Oden Eye](https://www.sensrad.com/oden-eye) - Radar-based detection system for UAVs and aerial applications
 
 ---
 
